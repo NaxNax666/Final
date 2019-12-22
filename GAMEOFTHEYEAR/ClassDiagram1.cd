@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="game.BattleArmyClasses.BattleArmy">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIAAAAAAEEAQAAAUAACAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>game\BattleArmyClasses\BattleArmy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.BattleArmyClasses.BattleUnitsStack">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAEAAAAAAAAABEAAQQAACAAAAIBBAAAAAAAACASAA=</HashCode>
+      <FileName>game\BattleArmyClasses\BattleUnitsStack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.BattleArmyClasses.Effects">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAASAAAAAAAAgAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>game\BattleArmyClasses\Effects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.MarchingArmy.Army">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>game\MarchingArmy\Army.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.MarchingArmy.Unit">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAABAIAAAAACBAQAAIAAAIAAAACAAgQAAFA=</HashCode>
+      <FileName>game\MarchingArmy\Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.MarchingArmy.UnitsStack">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAACAAAAABAAAAAAAAAAAABA=</HashCode>
+      <FileName>game\MarchingArmy\UnitsStack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.Units.Angel">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>game\Units\Angel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.Units.Arbalester">
+    <Position X="11.75" Y="5.25" Width="1.5" />
+    <InheritanceLine Type="game.MarchingArmy.Unit" FixedToPoint="true">
+      <Path>
+        <Point X="13.25" Y="4.622" />
+        <Point X="13.25" Y="4.95" />
+        <Point X="12.5" Y="4.95" />
+        <Point X="12.5" Y="5.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>game\Units\Arbalester.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.Units.BoneDragon">
+    <Position X="14.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>game\Units\BoneDragon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.Units.Cyclops">
+    <Position X="17.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>game\Units\Cyclops.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.Units.Devil">
+    <Position X="8.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>game\Units\Demon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.Units.Fury">
+    <Position X="10.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>game\Units\Fury.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.Units.Griffin">
+    <Position X="15.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>game\Units\Griffin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.Units.Hydra">
+    <Position X="19" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>game\Units\Hydra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.Units.Lich">
+    <Position X="9.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>game\Units\Lich.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.Units.Shaman">
+    <Position X="13" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>game\Units\Shaman.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.Units.Skeleton">
+    <Position X="16.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>game\Units\Skeleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.Attacker">
+    <Position X="4.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>game\Attacker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.Wizard">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAEAAAAAAAAAQAAAABAAEAQAAAAA=</HashCode>
+      <FileName>game\Wizard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game.InitiativeScale">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAUAAIAAABAAAAAAAAABAAAAAAAAAI=</HashCode>
+      <FileName>game\InitiativeScale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
